@@ -1,0 +1,157 @@
+2025-05-21 16:55:51,285 - root - INFO - ********************* verififng the login testing **********************
+2025-05-21 16:55:51,285 - root - INFO - *********************verification home page title**********************
+2025-05-21 16:55:53,212 - root - INFO - *********************verification home page title**********************
+2025-05-21 16:57:04,279 - automationLogger - INFO - ********************* verififng the login testing **********************
+2025-05-21 16:57:04,279 - automationLogger - INFO - *********************verification home page title**********************
+2025-05-21 16:57:06,257 - automationLogger - INFO - *********************verification home page title**********************
+2025-05-21 17:02:42,098 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-21 17:02:43,003 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:02:43,009 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-21 17:02:44,856 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-21 17:02:45,793 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:02:46,787 - automationLogger - INFO - Login successful. Test passed.
+2025-05-21 17:08:22,856 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-21 17:08:23,648 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:08:23,663 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-21 17:08:25,438 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-21 17:08:26,249 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:08:27,098 - automationLogger - INFO - Login successful. Test passed.
+2025-05-21 17:09:26,098 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-21 17:09:26,896 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:09:26,898 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-21 17:09:28,663 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-21 17:09:29,527 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:09:30,262 - automationLogger - INFO - Login successful. Test passed.
+2025-05-21 17:28:43,613 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-21 17:28:52,735 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:28:52,753 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-21 17:28:56,973 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-21 17:28:57,724 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:28:58,584 - automationLogger - INFO - Login successful. Test passed.
+2025-05-21 17:29:20,885 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-21 17:29:23,088 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:29:23,103 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-21 17:29:33,802 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-21 17:29:35,295 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 17:29:35,925 - automationLogger - INFO - Login successful. Test passed.
+2025-05-21 18:00:19,998 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-21 18:00:20,023 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-21 18:00:21,304 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 18:00:21,304 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 18:00:21,329 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-21 18:00:22,166 - automationLogger - INFO - Login successful. Test passed.
+2025-05-21 18:23:59,963 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-21 18:24:00,080 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 18:24:01,163 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-21 18:24:02,164 - automationLogger - INFO - Login successful. Test passed.
+2025-05-21 18:24:02,397 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 18:24:02,408 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-21 22:17:59,211 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-21 22:17:59,391 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-21 22:17:59,540 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 22:17:59,543 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-21 22:18:00,584 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-21 22:18:01,328 - automationLogger - INFO - Login successful. Test passed.
+2025-05-22 11:44:34,927 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 11:44:35,737 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 11:44:35,756 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 11:44:39,473 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 11:44:40,252 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 11:44:40,636 - automationLogger - INFO - Login successful. Test passed.
+2025-05-22 11:44:44,128 - automationLogger - INFO - ********* Starting DDT Login Test *********
+2025-05-22 11:45:37,294 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 11:45:38,015 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 11:45:38,015 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 11:45:41,539 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 11:45:42,478 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 11:45:42,843 - automationLogger - INFO - Login successful. Test passed.
+2025-05-22 11:45:46,382 - automationLogger - INFO - ********* Starting DDT Login Test *********
+2025-05-22 11:46:55,040 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 11:46:56,542 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 11:46:56,554 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 11:47:00,019 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 11:47:00,584 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 11:47:00,928 - automationLogger - INFO - Login successful. Test passed.
+2025-05-22 11:47:04,399 - automationLogger - INFO - ********* Starting DDT Login Test *********
+2025-05-22 11:53:13,371 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 11:53:14,078 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 11:53:14,090 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 11:53:17,600 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 11:53:18,533 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 11:53:18,895 - automationLogger - INFO - Login successful. Test passed.
+2025-05-22 11:53:22,390 - automationLogger - INFO - ********* Starting DDT Login Test *********
+2025-05-22 11:53:25,473 - automationLogger - INFO - [Row 2] Login successful as expected.
+2025-05-22 11:53:27,754 - automationLogger - INFO - [Row 3] Login successful as expected.
+2025-05-22 11:53:30,068 - automationLogger - INFO - [Row 4] Login successful as expected.
+2025-05-22 11:53:32,480 - automationLogger - INFO - [Row 5] Login successful as expected.
+2025-05-22 11:53:34,865 - automationLogger - INFO - [Row 6] Login successful but expected fail.
+2025-05-22 11:53:34,908 - automationLogger - INFO - **** DDT Login Test FAILED ****
+2025-05-22 12:31:33,036 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 12:31:33,939 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 12:31:33,964 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 12:31:37,947 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 12:31:38,930 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 12:31:39,682 - automationLogger - INFO - Login successful. Test passed.
+2025-05-22 12:57:42,346 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 12:57:43,139 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 12:57:43,150 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 12:57:47,262 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 12:57:48,150 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 12:59:34,804 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 12:59:35,692 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 12:59:35,703 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 12:59:39,813 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 12:59:40,559 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 12:59:41,312 - automationLogger - INFO - login successful
+2025-05-22 13:00:12,009 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 13:00:12,904 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 13:00:12,916 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 13:00:16,854 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 13:00:17,515 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 13:00:18,148 - automationLogger - INFO - login successful
+2025-05-22 13:03:40,192 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 13:03:41,077 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 13:03:41,082 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 13:03:45,048 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 13:03:46,201 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 13:03:47,046 - automationLogger - INFO - login successful
+2025-05-22 13:04:53,275 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 13:04:54,169 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 13:04:54,185 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 13:04:58,228 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 13:04:59,203 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 13:05:00,052 - automationLogger - INFO - login successful
+2025-05-22 13:06:02,276 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 13:06:03,247 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 13:06:03,263 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 13:06:07,341 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 13:06:08,398 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 13:06:09,225 - automationLogger - INFO - login successful
+2025-05-22 13:09:22,836 - automationLogger - INFO - ********* Starting DDT Login Test *********
+2025-05-22 13:09:26,618 - automationLogger - INFO - [Row 2] Login successful as expected.
+2025-05-22 13:09:29,329 - automationLogger - INFO - [Row 3] Login successful as expected.
+2025-05-22 13:09:31,952 - automationLogger - INFO - [Row 4] Login successful as expected.
+2025-05-22 13:09:34,486 - automationLogger - INFO - [Row 5] Login successful as expected.
+2025-05-22 13:09:37,041 - automationLogger - INFO - [Row 6] Login successful but expected fail.
+2025-05-22 13:09:37,118 - automationLogger - INFO - **** DDT Login Test FAILED ****
+2025-05-22 13:10:58,251 - automationLogger - INFO - ********* Starting DDT Login Test *********
+2025-05-22 13:11:02,053 - automationLogger - INFO - [Row 2] Login successful as expected.
+2025-05-22 13:11:04,628 - automationLogger - INFO - [Row 3] Login successful as expected.
+2025-05-22 13:11:07,291 - automationLogger - INFO - [Row 4] Login successful as expected.
+2025-05-22 13:11:10,194 - automationLogger - INFO - [Row 5] Login successful as expected.
+2025-05-22 13:11:12,846 - automationLogger - INFO - [Row 6] Login successful but expected fail.
+2025-05-22 13:11:12,930 - automationLogger - INFO - **** DDT Login Test FAILED ****
+2025-05-22 14:13:52,895 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 14:13:53,582 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 14:13:53,601 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 14:13:57,617 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 14:13:58,315 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 14:13:59,014 - automationLogger - INFO - login successful
+2025-05-22 14:13:59,027 - automationLogger - INFO - Login successful. Test passed.
+2025-05-22 15:56:15,346 - automationLogger - INFO - ********************* Test_001_Login: test_homepageTitle **********************
+2025-05-22 15:56:16,320 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 15:56:16,330 - automationLogger - INFO - Homepage title matched. Test passed.
+2025-05-22 15:56:19,845 - automationLogger - INFO - ********************* Test_001_Login: test_Login **********************
+2025-05-22 15:56:20,543 - automationLogger - INFO - Navigated to https://www.saucedemo.com
+2025-05-22 15:56:20,879 - automationLogger - INFO - login successful
+2025-05-22 15:56:20,888 - automationLogger - INFO - Login successful. Test passed.
