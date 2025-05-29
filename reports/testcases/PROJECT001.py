@@ -2,12 +2,12 @@
 <html>
   <head>
     <meta charset="utf-8"/>
-    <title id="head-title">report.html</title>
+    <title id="head-title">PROJECT001.py</title>
       <link href="assets\style.css" rel="stylesheet" type="text/css"/>
   </head>
   <body>
-    <h1 id="title">report.html</h1>
-    <p>Report generated on 29-May-2025 at 14:08:40 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a>
+    <h1 id="title">PROJECT001.py</h1>
+    <p>Report generated on 29-May-2025 at 12:28:30 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a>
         v4.1.1</p>
     <div id="environment-header">
       <h2>Environment</h2>
@@ -108,7 +108,7 @@
     </table>
   </body>
   <footer>
-    <div id="data-container" data-jsonblob="{&#34;environment&#34;: {&#34;Python&#34;: &#34;3.12.10&#34;, &#34;Platform&#34;: &#34;Windows-11-10.0.26100-SP0&#34;, &#34;Packages&#34;: {&#34;pytest&#34;: &#34;8.3.5&#34;, &#34;pluggy&#34;: &#34;1.6.0&#34;}}, &#34;tests&#34;: {}, &#34;renderCollapsed&#34;: [&#34;passed&#34;], &#34;initialSort&#34;: &#34;result&#34;, &#34;title&#34;: &#34;report.html&#34;}"></div>
+    <div id="data-container" data-jsonblob="{&#34;environment&#34;: {&#34;Python&#34;: &#34;3.12.10&#34;, &#34;Platform&#34;: &#34;Windows-11-10.0.26100-SP0&#34;, &#34;Packages&#34;: {&#34;pytest&#34;: &#34;8.3.5&#34;, &#34;pluggy&#34;: &#34;1.6.0&#34;}}, &#34;tests&#34;: {}, &#34;renderCollapsed&#34;: [&#34;passed&#34;], &#34;initialSort&#34;: &#34;result&#34;, &#34;title&#34;: &#34;PROJECT001.py&#34;}"></div>
     <script>
       (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
 const { getCollapsedCategory, setCollapsedIds } = require('./storage.js')
