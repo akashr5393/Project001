@@ -24,6 +24,7 @@ class LoginPage:
     bars_xpath = "//i[@class='fa fa-bars']"
     history_xpath = "//a[normalize-space()='History']"
     back_xpath = "//a[normalize-space()='Go to Homepage']"
+    Logout_xpath = "//a[normalize-space()='Logout']"
 
 
 
@@ -82,6 +83,9 @@ class LoginPage:
 
     def setback(self):
         self.driver.find_element(By.XPATH,self.back_xpath).click()
+
+    def setLogout(self):
+        self.driver.find_element(By.XPATH,self.Logout_xpath).click()
 
 
 
